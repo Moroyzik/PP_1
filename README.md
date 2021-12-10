@@ -1,5 +1,3 @@
-# PP_1
-
 #include <iostream>
 #include <atomic>
 #include <map>
